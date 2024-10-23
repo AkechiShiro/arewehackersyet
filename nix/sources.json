@@ -29,10 +29,10 @@
         "homepage": "",
         "owner": "nix-community",
         "repo": "NUR",
-        "rev": "94a52341fa5b0355cd5aa33b53632399a444d3c4",
-        "sha256": "1achzdr1xawgz65hr58gk0dk10js1k37h4l05zlw5syln9003b0x",
+        "rev": "13f846836dadb6fdfd9c98384f53f7742e12a237",
+        "sha256": "1qhpxsg8jalb1760xxa2za1p719s6gzdrpf3mwbyf263yiz94lg1",
         "type": "tarball",
-        "url": "https://github.com/nix-community/NUR/archive/94a52341fa5b0355cd5aa33b53632399a444d3c4.tar.gz",
+        "url": "https://github.com/nix-community/NUR/archive/13f846836dadb6fdfd9c98384f53f7742e12a237.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     }
 }
