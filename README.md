@@ -1,3 +1,9 @@
+# [WARNING] This project is not currently maintained
+
+This project will probably be archived soon.
+
+Please check this [more up to date fork](https://github.com/pyrox0/arewehackersyet)
+
 # Kali Linux vs NixOS hackers tool tracker
 
 Original project **archived** was made by @JJJollyjim at https://github.com/JJJollyjim/arewehackersyet
