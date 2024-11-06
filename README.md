@@ -1,6 +1,6 @@
 # [WARNING] This project is not currently maintained
 
-See #48
+See [#48](https://github.com/AkechiShiro/arewehackersyet/issues/48) for more details.
 
 This project will probably be archived soon.
 
