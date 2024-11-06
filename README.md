@@ -1,5 +1,7 @@
 # [WARNING] This project is not currently maintained
 
+See #48
+
 This project will probably be archived soon.
 
 Please check this [more up to date fork](https://github.com/pyrox0/arewehackersyet)
